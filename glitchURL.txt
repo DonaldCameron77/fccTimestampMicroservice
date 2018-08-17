@@ -1,0 +1,5 @@
+real-skirt.glitch.me
+https://real-skirt.glitch.me/api/timestamp/banana
+https://real-skirt.glitch.me/api/timestamp/2015-12-25
+https://real-skirt.glitch.me/api/timestamp/1450137600
+https://real-skirt.glitch.me/api/timestamp/ # uses current date/time
